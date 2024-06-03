@@ -22,14 +22,14 @@
 			<!--
 			CSS
 			============================================= -->
-			<link rel="stylesheet" href="css/linearicons.css">
-			<link rel="stylesheet" href="css/font-awesome.min.css">
-			<link rel="stylesheet" href="css/bootstrap.css">
-			<link rel="stylesheet" href="css/magnific-popup.css">
-			<link rel="stylesheet" href="css/nice-select.css">					
-			<link rel="stylesheet" href="css/animate.min.css">
-			<link rel="stylesheet" href="css/owl.carousel.css">
-			<link rel="stylesheet" href="css/main.css">
+			<link rel="stylesheet" href="../css/linearicons.css">
+			<link rel="stylesheet" href="../css/font-awesome.min.css">
+			<link rel="stylesheet" href="../css/bootstrap.css">
+			<link rel="stylesheet" href="../css/magnific-popup.css">
+			<link rel="stylesheet" href="../css/nice-select.css">
+			<link rel="stylesheet" href="../css/animate.min.css">
+			<link rel="stylesheet" href="../css/owl.carousel.css">
+			<link rel="stylesheet" href="../css/main.css">
 		</head>
 		<body>
 
@@ -37,7 +37,7 @@
 			    <div class="container">
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.php"><img src="img/logo.png" alt="" title="" /></a>
+				        <a href="index.php"><img src="../img/logo.png" alt="" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
@@ -161,7 +161,7 @@
 						<div class="active-popular-post-carusel">
 							<div class="single-popular-post d-flex flex-row">
 								<div class="thumb">
-									<img class="img-fluid" src="img/p1.png" alt="">
+									<img class="img-fluid" src="../img/p1.png" alt="">
 									<a class="btns text-uppercase" href="#">view job post</a>
 								</div>
 								<div class="details">
@@ -174,7 +174,7 @@
 							</div>	
 							<div class="single-popular-post d-flex flex-row">
 								<div class="thumb">
-									<img src="img/p2.png" alt="">
+									<img src="../img/p2.png" alt="">
 									<a class="btns text-uppercase" href="#">view job post</a>
 								</div>
 								<div class="details">
@@ -187,7 +187,7 @@
 							</div>
 							<div class="single-popular-post d-flex flex-row">
 								<div class="thumb">
-									<img src="img/p1.png" alt="">
+									<img src="../img/p1.png" alt="">
 									<a class="btns text-uppercase" href="#">view job post</a>
 								</div>
 								<div class="details">
@@ -200,7 +200,7 @@
 							</div>
 							<div class="single-popular-post d-flex flex-row">
 								<div class="thumb">
-									<img src="img/p2.png" alt="">
+									<img src="../img/p2.png" alt="">
 									<a class="btns text-uppercase" href="#">view job post</a>
 								</div>
 								<div class="details">
@@ -213,7 +213,7 @@
 							</div>
 							<div class="single-popular-post d-flex flex-row">
 								<div class="thumb">
-									<img src="img/p1.png" alt="">
+									<img src="../img/p1.png" alt="">
 									<a class="btns text-uppercase" href="#">view job post</a>
 								</div>
 								<div class="details">
@@ -227,7 +227,7 @@
 							</div>	
 							<div class="single-popular-post d-flex flex-row">
 								<div class="thumb">
-									<img src="img/p2.png" alt="">
+									<img src="../img/p2.png" alt="">
 									<a class="btns text-uppercase" href="#">view job post</a>
 								</div>
 								<div class="details">
@@ -259,7 +259,7 @@
 						<div class="col-lg-2 col-md-4 col-sm-6">
 							<div class="single-fcat">
 								<a href="category.php">
-									<img src="img/o1.png" alt="">
+									<img src="../img/o1.png" alt="">
 								</a>
 								<p>Accounting</p>
 							</div>
@@ -267,7 +267,7 @@
 						<div class="col-lg-2 col-md-4 col-sm-6">
 							<div class="single-fcat">
 								<a href="category.php">
-									<img src="img/o2.png" alt="">
+									<img src="../img/o2.png" alt="">
 								</a>
 								<p>Development</p>
 							</div>
@@ -275,7 +275,7 @@
 						<div class="col-lg-2 col-md-4 col-sm-6">
 							<div class="single-fcat">
 								<a href="category.php">
-									<img src="img/o3.png" alt="">
+									<img src="../img/o3.png" alt="">
 								</a>
 								<p>Technology</p>
 							</div>
@@ -283,7 +283,7 @@
 						<div class="col-lg-2 col-md-4 col-sm-6">
 							<div class="single-fcat">
 								<a href="category.php">
-									<img src="img/o4.png" alt="">
+									<img src="../img/o4.png" alt="">
 								</a>
 								<p>Media & News</p>
 							</div>
@@ -291,7 +291,7 @@
 						<div class="col-lg-2 col-md-4 col-sm-6">
 							<div class="single-fcat">
 								<a href="category.php">
-									<img src="img/o5.png" alt="">
+									<img src="../img/o5.png" alt="">
 								</a>
 								<p>Medical</p>
 							</div>
@@ -299,7 +299,7 @@
 						<div class="col-lg-2 col-md-4 col-sm-6">
 							<div class="single-fcat">
 								<a href="category.php">
-									<img src="img/o6.png" alt="">
+									<img src="../img/o6.png" alt="">
 								</a>
 								<p>Goverment</p>
 							</div>			
@@ -322,7 +322,7 @@
 							</ul>
 							<div class="single-post d-flex flex-row">
 								<div class="thumb">
-									<img src="img/post.png" alt="">
+									<img src="../img/post.png" alt="">
 									<ul class="tags">
 										<li>
 											<a href="#">Art</a>
@@ -356,7 +356,7 @@
 							</div>
 							<div class="single-post d-flex flex-row">
 								<div class="thumb">
-									<img src="img/post.png" alt="">
+									<img src="../img/post.png" alt="">
 									<ul class="tags">
 										<li>
 											<a href="#">Art</a>
@@ -390,7 +390,7 @@
 							</div>
 							<div class="single-post d-flex flex-row">
 								<div class="thumb">
-									<img src="img/post.png" alt="">
+									<img src="../img/post.png" alt="">
 									<ul class="tags">
 										<li>
 											<a href="#">Art</a>
@@ -424,7 +424,7 @@
 							</div>		
 							<div class="single-post d-flex flex-row">
 								<div class="thumb">
-									<img src="img/post.png" alt="">
+									<img src="../img/post.png" alt="">
 									<ul class="tags">
 										<li>
 											<a href="#">Art</a>
@@ -458,7 +458,7 @@
 							</div>
 							<div class="single-post d-flex flex-row">
 								<div class="thumb">
-									<img src="img/post.png" alt="">
+									<img src="../img/post.png" alt="">
 									<ul class="tags">
 										<li>
 											<a href="#">Art</a>
@@ -492,7 +492,7 @@
 							</div>
 							<div class="single-post d-flex flex-row">
 								<div class="thumb">
-									<img src="img/post.png" alt="">
+									<img src="../img/post.png" alt="">
 									<ul class="tags">
 										<li>
 											<a href="#">Art</a>
@@ -526,7 +526,7 @@
 							</div>															
 							<div class="single-post d-flex flex-row">
 								<div class="thumb">
-									<img src="img/post.png" alt="">
+									<img src="../img/post.png" alt="">
 									<ul class="tags">
 										<li>
 											<a href="#">Art</a>
@@ -580,7 +580,7 @@
 								<h4>Top rated job posts</h4>
 								<div class="active-relatedjob-carusel">
 									<div class="single-rated">
-										<img class="img-fluid" src="img/r1.jpg" alt="">
+										<img class="img-fluid" src="../img/r1.jpg" alt="">
 										<a href="single.php"><h4>Creative Art Designer</h4></a>
 										<h6>Premium Labels Limited</h6>
 										<p>
@@ -592,7 +592,7 @@
 										<a href="#" class="btns text-uppercase">Apply job</a>
 									</div>
 									<div class="single-rated">
-										<img class="img-fluid" src="img/r1.jpg" alt="">
+										<img class="img-fluid" src="../img/r1.jpg" alt="">
 										<a href="single.php"><h4>Creative Art Designer</h4></a>
 										<h6>Premium Labels Limited</h6>
 										<p>
@@ -604,7 +604,7 @@
 										<a href="#" class="btns text-uppercase">Apply job</a>
 									</div>
 									<div class="single-rated">
-										<img class="img-fluid" src="img/r1.jpg" alt="">
+										<img class="img-fluid" src="../img/r1.jpg" alt="">
 										<a href="single.php"><h4>Creative Art Designer</h4></a>
 										<h6>Premium Labels Limited</h6>
 										<p>
@@ -711,7 +711,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-6 download-left">
-							<img class="img-fluid" src="img/d1.png" alt="">
+							<img class="img-fluid" src="../img/d1.png" alt="">
 						</div>
 						<div class="col-lg-6 download-right">
 							<h1>Download the <br>
@@ -792,14 +792,14 @@
 							<div class="single-footer-widget mail-chimp">
 								<h6 class="mb-20">Instragram Feed</h6>
 								<ul class="instafeed d-flex flex-wrap">
-									<li><img src="img/i1.jpg" alt=""></li>
-									<li><img src="img/i2.jpg" alt=""></li>
-									<li><img src="img/i3.jpg" alt=""></li>
-									<li><img src="img/i4.jpg" alt=""></li>
-									<li><img src="img/i5.jpg" alt=""></li>
-									<li><img src="img/i6.jpg" alt=""></li>
-									<li><img src="img/i7.jpg" alt=""></li>
-									<li><img src="img/i8.jpg" alt=""></li>
+									<li><img src="../img/i1.jpg" alt=""></li>
+									<li><img src="../img/i2.jpg" alt=""></li>
+									<li><img src="../img/i3.jpg" alt=""></li>
+									<li><img src="../img/i4.jpg" alt=""></li>
+									<li><img src="../img/i5.jpg" alt=""></li>
+									<li><img src="../img/i6.jpg" alt=""></li>
+									<li><img src="../img/i7.jpg" alt=""></li>
+									<li><img src="../img/i8.jpg" alt=""></li>
 								</ul>
 							</div>
 						</div>						
@@ -822,21 +822,21 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 			</footer>
 			<!-- End footer Area -->		
 
-			<script src="js/vendor/jquery-2.2.4.min.js"></script>
+			<script src="../js/vendor/jquery-2.2.4.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-			<script src="js/vendor/bootstrap.min.js"></script>			
+			<script src="../js/vendor/bootstrap.min.js"></script>			
 			<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
-  			<script src="js/easing.min.js"></script>			
-			<script src="js/hoverIntent.js"></script>
-			<script src="js/superfish.min.js"></script>	
-			<script src="js/jquery.ajaxchimp.min.js"></script>
-			<script src="js/jquery.magnific-popup.min.js"></script>	
-			<script src="js/owl.carousel.min.js"></script>			
-			<script src="js/jquery.sticky.js"></script>
-			<script src="js/jquery.nice-select.min.js"></script>			
-			<script src="js/parallax.min.js"></script>		
-			<script src="js/mail-script.js"></script>	
-			<script src="js/main.js"></script>	
+  			<script src="../js/easing.min.js"></script>			
+			<script src="../js/hoverIntent.js"></script>
+			<script src="../js/superfish.min.js"></script>	
+			<script src="../js/jquery.ajaxchimp.min.js"></script>
+			<script src="../js/jquery.magnific-popup.min.js"></script>	
+			<script src="../js/owl.carousel.min.js"></script>			
+			<script src="../js/jquery.sticky.js"></script>
+			<script src="../js/jquery.nice-select.min.js"></script>			
+			<script src="../js/parallax.min.js"></script>		
+			<script src="../js/mail-script.js"></script>	
+			<script src="../js/main.js"></script>	
 		</body>
 	</html>
 

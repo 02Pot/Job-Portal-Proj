@@ -6,7 +6,7 @@
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/fav.png">
+		<link rel="shortcut icon" href="../img/fav.png">
 		<!-- Author Meta -->
 		<meta name="author" content="codepixer">
 		<!-- Meta Description -->
@@ -22,14 +22,14 @@
 			<!--
 			CSS
 			============================================= -->
-			<link rel="stylesheet" href="css/linearicons.css">
-			<link rel="stylesheet" href="css/font-awesome.min.css">
-			<link rel="stylesheet" href="css/bootstrap.css">
-			<link rel="stylesheet" href="css/magnific-popup.css">
-			<link rel="stylesheet" href="css/nice-select.css">					
-			<link rel="stylesheet" href="css/animate.min.css">
-			<link rel="stylesheet" href="css/owl.carousel.css">
-			<link rel="stylesheet" href="css/main.css">
+			<link rel="stylesheet" href="../css/linearicons.css">
+			<link rel="stylesheet" href="../css/font-awesome.min.css">
+			<link rel="stylesheet" href="../css/bootstrap.css">
+			<link rel="stylesheet" href="../css/magnific-popup.css">
+			<link rel="stylesheet" href="../css/nice-select.css">					
+			<link rel="stylesheet" href="../css/animate.min.css">
+			<link rel="stylesheet" href="../css/owl.carousel.css">
+			<link rel="stylesheet" href="../css/main.css">
 		</head>
 		<body>
 
@@ -37,7 +37,7 @@
                 <div class="container">
                     <div class="row align-items-center justify-content-between d-flex">
                       <div id="logo">
-                        <a href="index.php"><img src="img/logo.png" alt="" title="" /></a>
+                        <a href="index.php"><img src="../img/logo.png" alt="" title="" /></a>
                       </div>
                       <nav id="nav-menu-container">
                         <ul class="nav-menu">
@@ -85,7 +85,7 @@
 					<div class="row">
 						<div class="col-lg-8 post-list blog-post-list">
 							<div class="single-post">
-								<img class="img-fluid" src="img/blog/p1.jpg" alt="">
+								<img class="img-fluid" src="../img/blog/p1.jpg" alt="">
 								<ul class="tags">
 									<li><a href="#">Art</a></li>
 									<li><a href="#">Technology</a></li>
@@ -146,7 +146,7 @@
                                     <div class="row justify-content-between">
                                         <div class="col-sm-6 nav-left justify-content-start d-flex">
                                             <div class="thumb">
-                                                <img src="img/blog/prev.jpg" alt="">
+                                                <img src="../img/blog/prev.jpg" alt="">
                                             </div>
                                             <div class="post-details">
                                                 <p>Prev Post</p>
@@ -159,7 +159,7 @@
                                                 <h4 class="text-uppercase"><a href="#">A Discount Toner</a></h4>
                                             </div>             
                                             <div class="thumb">
-                                                <img src="img/blog/next.jpg" alt="">
+                                                <img src="../img/blog/next.jpg" alt="">
                                             </div>                         
                                         </div>
                                     </div>
@@ -177,7 +177,7 @@
                                             <div class="single-comment justify-content-between d-flex">
                                                 <div class="user justify-content-between d-flex">
                                                     <div class="thumb">
-                                                        <img src="img/blog/c1.jpg" alt="">
+                                                        <img src="../img/blog/c1.jpg" alt="">
                                                     </div>
                                                     <div class="desc">
                                                         <h5><a href="#">Emilly Blunt</a></h5>
@@ -196,7 +196,7 @@
                                             <div class="single-comment justify-content-between d-flex">
                                                 <div class="user justify-content-between d-flex">
                                                     <div class="thumb">
-                                                        <img src="img/blog/c2.jpg" alt="">
+                                                        <img src="../img/blog/c2.jpg" alt="">
                                                     </div>
                                                     <div class="desc">
                                                         <h5><a href="#">Emilly Blunt</a></h5>
@@ -215,7 +215,7 @@
                                             <div class="single-comment justify-content-between d-flex">
                                                 <div class="user justify-content-between d-flex">
                                                     <div class="thumb">
-                                                        <img src="img/blog/c3.jpg" alt="">
+                                                        <img src="../img/blog/c3.jpg" alt="">
                                                     </div>
                                                     <div class="desc">
                                                         <h5><a href="#">Emilly Blunt</a></h5>
@@ -234,7 +234,7 @@
                                             <div class="single-comment justify-content-between d-flex">
                                                 <div class="user justify-content-between d-flex">
                                                     <div class="thumb">
-                                                        <img src="img/blog/c4.jpg" alt="">
+                                                        <img src="../img/blog/c4.jpg" alt="">
                                                     </div>
                                                     <div class="desc">
                                                         <h5><a href="#">Emilly Blunt</a></h5>
@@ -253,7 +253,7 @@
                                             <div class="single-comment justify-content-between d-flex">
                                                 <div class="user justify-content-between d-flex">
                                                     <div class="thumb">
-                                                        <img src="img/blog/c5.jpg" alt="">
+                                                        <img src="../img/blog/c5.jpg" alt="">
                                                     </div>
                                                     <div class="desc">
                                                         <h5><a href="#">Emilly Blunt</a></h5>
@@ -305,7 +305,7 @@
 							</div>
 
 							<div class="single-widget protfolio-widget">
-								<img src="img/blog/user2.jpg" alt="">
+								<img src="../img/blog/user2.jpg" alt="">
 								<a href="#"><h4>Adele Gonzalez</h4></a>
 								<p>
 									MCSE boot camps have its supporters and
@@ -338,7 +338,7 @@
                                 <div class="blog-list ">
                                     <div class="single-recent-post d-flex flex-row">
                                         <div class="recent-thumb">
-                                            <img class="img-fluid" src="img/blog/r1.jpg" alt="">
+                                            <img class="img-fluid" src="../img/blog/r1.jpg" alt="">
                                         </div>
                                         <div class="recent-details">
                                             <a href="blog-single.php">
@@ -354,7 +354,7 @@
                                     </div>  
                                     <div class="single-recent-post d-flex flex-row">
                                         <div class="recent-thumb">
-                                            <img class="img-fluid" src="img/blog/r2.jpg" alt="">
+                                            <img class="img-fluid" src="../img/blog/r2.jpg" alt="">
                                         </div>
                                         <div class="recent-details">
                                             <a href="blog-single.php">
@@ -370,7 +370,7 @@
                                     </div>  
                                     <div class="single-recent-post d-flex flex-row">
                                         <div class="recent-thumb">
-                                            <img class="img-fluid" src="img/blog/r3.jpg" alt="">
+                                            <img class="img-fluid" src="../img/blog/r3.jpg" alt="">
                                         </div>
                                         <div class="recent-details">
                                             <a href="blog-single.php">
@@ -386,7 +386,7 @@
                                     </div>  
                                     <div class="single-recent-post d-flex flex-row">
                                         <div class="recent-thumb">
-                                            <img class="img-fluid" src="img/blog/r4.jpg" alt="">
+                                            <img class="img-fluid" src="../img/blog/r4.jpg" alt="">
                                         </div>
                                         <div class="recent-details">
                                             <a href="blog-single.php">
@@ -480,14 +480,14 @@
 							<div class="single-footer-widget mail-chimp">
 								<h6 class="mb-20">Instragram Feed</h6>
 								<ul class="instafeed d-flex flex-wrap">
-									<li><img src="img/i1.jpg" alt=""></li>
-									<li><img src="img/i2.jpg" alt=""></li>
-									<li><img src="img/i3.jpg" alt=""></li>
-									<li><img src="img/i4.jpg" alt=""></li>
-									<li><img src="img/i5.jpg" alt=""></li>
-									<li><img src="img/i6.jpg" alt=""></li>
-									<li><img src="img/i7.jpg" alt=""></li>
-									<li><img src="img/i8.jpg" alt=""></li>
+									<li><img src="../img/i1.jpg" alt=""></li>
+									<li><img src="../img/i2.jpg" alt=""></li>
+									<li><img src="../img/i3.jpg" alt=""></li>
+									<li><img src="../img/i4.jpg" alt=""></li>
+									<li><img src="../img/i5.jpg" alt=""></li>
+									<li><img src="../img/i6.jpg" alt=""></li>
+									<li><img src="../img/i7.jpg" alt=""></li>
+									<li><img src="../img/i8.jpg" alt=""></li>
 								</ul>
 							</div>
 						</div>						
@@ -510,20 +510,20 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 			</footer>
 			<!-- End footer Area -->		
 
-			<script src="js/vendor/jquery-2.2.4.min.js"></script>
+			<script src="../js/vendor/jquery-2.2.4.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-			<script src="js/vendor/bootstrap.min.js"></script>			
+			<script src="../js/vendor/bootstrap.min.js"></script>			
 			<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
-  			<script src="js/easing.min.js"></script>			
-			<script src="js/hoverIntent.js"></script>
-			<script src="js/superfish.min.js"></script>	
-			<script src="js/jquery.ajaxchimp.min.js"></script>
-			<script src="js/jquery.magnific-popup.min.js"></script>	
-			<script src="js/owl.carousel.min.js"></script>			
-			<script src="js/jquery.sticky.js"></script>
-			<script src="js/jquery.nice-select.min.js"></script>			
-			<script src="js/parallax.min.js"></script>		
-			<script src="js/mail-script.js"></script>	
-			<script src="js/main.js"></script>	
+  			<script src="../js/easing.min.js"></script>			
+			<script src="../js/hoverIntent.js"></script>
+			<script src="../js/superfish.min.js"></script>	
+			<script src="../js/jquery.ajaxchimp.min.js"></script>
+			<script src="../js/jquery.magnific-popup.min.js"></script>	
+			<script src="../js/owl.carousel.min.js"></script>			
+			<script src="../js/jquery.sticky.js"></script>
+			<script src="../js/jquery.nice-select.min.js"></script>			
+			<script src="../js/parallax.min.js"></script>		
+			<script src="../js/mail-script.js"></script>	
+			<script src="../js/main.js"></script>	
 		</body>
 	</html>
