@@ -1,7 +1,5 @@
-// for sending message in web to email
-
 <?php
-    $to = 'demo@spondonit.com';s
+    $to = 'demo@spondonit.com'; // put email receiver here
     $firstname = $_POST["fname"];
     $email= $_POST["email"];
     $text= $_POST["message"];
