@@ -1,4 +1,5 @@
 <?php
+	require_once "./class/sessions.php";
 ?>
 <!DOCTYPE html>
 	<html lang="zxx" class="no-js">
