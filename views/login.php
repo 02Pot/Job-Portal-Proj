@@ -1,8 +1,8 @@
 <?php
+
 ?>
 <!DOCTYPE html>
-<!-- Created By CodingLab - www.codinglabweb.com -->
-<html lang="en" dir="ltr">
+  <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,19 +14,23 @@
     <div class="container">
       <div class="wrapper">
         <div class="title"><span>Login</span></div>
-        <form action="#">
+
+        <form method="post" action="../class/loginclas.php">
           <div class="row">
             <i class="fas fa-user"></i>
-            <input type="text" placeholder="Email or Phone" required>
+            <input type="text" placeholder="Username" name="username" required>
           </div>
+
           <div class="row">
             <i class="fas fa-lock"></i>
-            <input type="password" placeholder="Password" required>
+            <input type="password" placeholder="Password" name="password" required>
           </div>
+
           <div class="pass"><a href="#">Forgot password?</a></div>
           <div class="row button">
             <input type="submit" value="Login">
           </div>
+
           <div class="signup-link">Not a member? <a href="register.php">Signup now</a></div>
         </form>
       </div>
