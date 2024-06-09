@@ -1,4 +1,5 @@
 <?php
+	require_once "../class/sessions.php";
 ?>
 <!DOCTYPE html>
 	<html lang="zxx" class="no-js">
@@ -41,7 +42,7 @@
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
-				          <li class="menu-active"><a href="index.php">Home</a></li>
+				          <li class="menu-active"><a href="../index.php">Home</a></li>
 				          <li><a href="about-us.php">About Us</a></li>
 				          <li><a href="category.php">Category</a></li>
 				          <li><a href="price.php">Price</a></li>
@@ -54,8 +55,14 @@
 								<li><a href="single.php">single</a></li>
 				            </ul>
 				          </li>
-				          <li><a class="ticker-btn" href="register.php">Signup</a></li>
-				          <li><a class="ticker-btn" href="login.php">Login</a></li>				          				          
+				          <?php
+                    		if (isset($_SESSION['u_id'])) {
+                        		echo '<li><a class="ticker-btn" href="../class/logout.php">Logout</a></li>';
+                    		} else {
+                        		echo '<li><a class="ticker-btn" href="../views/register.php">Signup</a></li>';
+                        		echo '<li><a class="ticker-btn" href="../views/login.php">Login</a></li>';
+                    			}
+                    		?>
 				        </ul>
 				      </nav><!-- #nav-menu-container -->		    		
 			    	</div>

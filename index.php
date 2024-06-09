@@ -54,10 +54,16 @@
 								<li><a href="./views/search.php">search</a></li>
 								<li><a href="./views/single.php">single</a></li>
 				            </ul>
-				          </li>
-				          <li><a class="ticker-btn" href="./views/register.php">Signup</a></li>
-				          <li><a class="ticker-btn" href="./views/login.php">Login</a></li>
-				        </ul>
+				          	</li>
+						  	<?php
+                    		if (isset($_SESSION['u_id'])) {
+                        		echo '<li><a class="ticker-btn" href="./class/logout.php">Logout</a></li>';
+                    		} else {
+                        		echo '<li><a class="ticker-btn" href="./views/register.php">Signup</a></li>';
+                        		echo '<li><a class="ticker-btn" href="./views/login.php">Login</a></li>';
+                    		}
+                    		?>
+						  </ul>
 				      </nav><!-- #nav-menu-container -->		    		
 			    	</div>
 			    </div>

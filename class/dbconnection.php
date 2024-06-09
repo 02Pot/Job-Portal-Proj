@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "moshiroshiina24"; //lagay nyo pass sa mysql
+$password = ""; //lagay nyo pass sa mysql
 
 try {
     $conn = new PDO("mysql:host=$servername;dbname=jobdatabase", $username, $password);
