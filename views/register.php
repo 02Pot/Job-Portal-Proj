@@ -14,22 +14,28 @@
     <div class="container">
       <div class="wrapper">
         <div class="title"><span>Register</span></div>
-        <form action="#">
+
+        <form method="post" action="../class/registerclas.php">
+
           <div class="row">
             <i class="fas fa-user"></i>
-            <input type="text" placeholder="Email or Phone" required>
+            <input type="text" name="email" placeholder="Email or Phone" required>
           </div>
+
+          <div class="row">
+            <i class="fas fa-user"></i>
+            <input type="text" name="username" placeholder="Username" required>
+          </div>
+          
           <div class="row">
             <i class="fas fa-lock"></i>
-            <input type="password" placeholder="Password" required>
+            <input type="password" name="password" placeholder="Password" required>
           </div>
-          <div class="row">
-            <i class="fas fa-lock"></i>
-            <input type="password" placeholder="Confirm Password" required>
-          </div>
+
           <div class="row button">
             <input type="submit" value="Login">
           </div>
+          
           <div class="signup-link">Already a member? <a href="login.php">Login now</a></div>
         </form>
       </div>

@@ -38,7 +38,7 @@
 			<div class="container">
 			    <div class="row align-items-center justify-content-between d-flex">
 				    <div id="logo">
-				    <a href="index.php"><img src="../img/logo.png" alt="" title="" /></a>
+				    <a href="../index.php"><img src="../img/logo.png" alt="" title="" /></a>
 				    </div>
 				    <nav id="nav-menu-container">
 				    <ul class="nav-menu">
@@ -64,7 +64,7 @@
                     			}
                     		?>
 				        	</ul>
-				    	</nav><!-- #nav-menu-container -->		    		
+				    	</nav><!-- #nav-menu-container -->
 			    	</div>
 				</div>
 			</header><!-- #header -->
@@ -79,7 +79,7 @@
 							<h1 class="text-white">
 								About Us				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="about-us.php"> About Us</a></p>
+							<p class="text-white link-nav"><a href="../index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="about-us.php"> About Us</a></p>
 						</div>											
 					</div>
 				</div>

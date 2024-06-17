@@ -38,7 +38,7 @@
 			    <div class="container">
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.php"><img src="../img/logo.png" alt="" title="" /></a>
+				        <a href="../index.php"><img src="../img/logo.png" alt="" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
@@ -79,7 +79,7 @@
 							<h1 class="text-white">
 								Job category				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="category.php"> Job category</a></p>
+							<p class="text-white link-nav"><a href="../index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="category.php"> Job category</a></p>
 						</div>											
 					</div>
 				</div>
@@ -91,6 +91,7 @@
 				<div class="container">
 					<div class="row justify-content-center d-flex">
 						<div class="col-lg-8 post-list">
+
 							<div class="single-post d-flex flex-row">
 								<div class="thumb">
 									<img src="../img/post.png" alt="">
@@ -125,6 +126,8 @@
 									<p class="address"><span class="lnr lnr-database"></span> 15k - 25k</p>
 								</div>
 							</div>
+
+
 							<div class="single-post d-flex flex-row">
 								<div class="thumb">
 									<img src="../img/post.png" alt="">
@@ -159,6 +162,8 @@
 									<p class="address"><span class="lnr lnr-database"></span> 15k - 25k</p>
 								</div>
 							</div>
+
+							
 							<div class="single-post d-flex flex-row">
 								<div class="thumb">
 									<img src="../img/post.png" alt="">

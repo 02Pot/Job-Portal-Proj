@@ -1,5 +1,6 @@
 <?php
 	require_once "./class/sessions.php";
+
 ?>
 <!DOCTYPE html>
 	<html lang="zxx" class="no-js">
@@ -38,7 +39,7 @@
 			    <div class="container">
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.php"><img src="./img/logo.png" alt="" title="" /></a>
+					  <a href="index.php"><img src="./img/logo.png" alt="" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
@@ -345,7 +346,7 @@
 								<div class="details">
 									<div class="title d-flex flex-row justify-content-between">
 										<div class="titles">
-											<a href="single.php"><h4>Creative Art Designer</h4></a>
+											<a href="./views/single.php"><h4>Creative Art Designer</h4></a>
 											<h6>Premium Labels Limited</h6>					
 										</div>
 										<ul class="btns">
@@ -379,7 +380,7 @@
 								<div class="details">
 									<div class="title d-flex flex-row justify-content-between">
 										<div class="titles">
-											<a href="single.php"><h4>Creative Art Designer</h4></a>
+											<a href="./views/single.php"><h4>Creative Art Designer</h4></a>
 											<h6>Premium Labels Limited</h6>					
 										</div>
 										<ul class="btns">
@@ -413,7 +414,7 @@
 								<div class="details">
 									<div class="title d-flex flex-row justify-content-between">
 										<div class="titles">
-											<a href="single.php"><h4>Creative Art Designer</h4></a>
+											<a href="./views/single.php"><h4>Creative Art Designer</h4></a>
 											<h6>Premium Labels Limited</h6>					
 										</div>
 										<ul class="btns">
@@ -447,7 +448,7 @@
 								<div class="details">
 									<div class="title d-flex flex-row justify-content-between">
 										<div class="titles">
-											<a href="single.php"><h4>Creative Art Designer</h4></a>
+											<a href="./views/single.php"><h4>Creative Art Designer</h4></a>
 											<h6>Premium Labels Limited</h6>
 										</div>
 										<ul class="btns">
@@ -481,7 +482,7 @@
 								<div class="details">
 									<div class="title d-flex flex-row justify-content-between">
 										<div class="titles">
-											<a href="single.php"><h4>Creative Art Designer</h4></a>
+											<a href="./views/single.php"><h4>Creative Art Designer</h4></a>
 											<h6>Premium Labels Limited</h6>					
 										</div>
 										<ul class="btns">
@@ -515,7 +516,7 @@
 								<div class="details">
 									<div class="title d-flex flex-row justify-content-between">
 										<div class="titles">
-											<a href="single.php"><h4>Creative Art Designer</h4></a>
+											<a href="./views/single.php"><h4>Creative Art Designer</h4></a>
 											<h6>Premium Labels Limited</h6>					
 										</div>
 										<ul class="btns">
@@ -549,7 +550,7 @@
 								<div class="details">
 									<div class="title d-flex flex-row justify-content-between">
 										<div class="titles">
-											<a href="single.php"><h4>Creative Art Designer</h4></a>
+											<a href="./views/single.php"><h4>Creative Art Designer</h4></a>
 											<h6>Premium Labels Limited</h6>					
 										</div>
 										<ul class="btns">
@@ -566,20 +567,20 @@
 								</div>
 							</div>	
 							
-							<a class="text-uppercase loadmore-btn mx-auto d-block" href="category.php">Load More job Posts</a>
+							<a class="text-uppercase loadmore-btn mx-auto d-block" href="./views/category.php">Load More job Posts</a>
 
 						</div>
 						<div class="col-lg-4 sidebar">
 							<div class="single-slidebar">
 								<h4>Jobs by Location</h4>
 								<ul class="cat-list">
-									<li><a class="justify-content-between d-flex" href="category.php"><p>New York</p><span>37</span></a></li>
-									<li><a class="justify-content-between d-flex" href="category.php"><p>Park Montana</p><span>57</span></a></li>
-									<li><a class="justify-content-between d-flex" href="category.php"><p>Atlanta</p><span>33</span></a></li>
-									<li><a class="justify-content-between d-flex" href="category.php"><p>Arizona</p><span>36</span></a></li>
-									<li><a class="justify-content-between d-flex" href="category.php"><p>Florida</p><span>47</span></a></li>
-									<li><a class="justify-content-between d-flex" href="category.php"><p>Rocky Beach</p><span>27</span></a></li>
-									<li><a class="justify-content-between d-flex" href="category.php"><p>Chicago</p><span>17</span></a></li>
+									<li><a class="justify-content-between d-flex" href="./views/category.php"><p>New York</p><span>37</span></a></li>
+									<li><a class="justify-content-between d-flex" href="./views/category.php"><p>Park Montana</p><span>57</span></a></li>
+									<li><a class="justify-content-between d-flex" href="./views/category.php"><p>Atlanta</p><span>33</span></a></li>
+									<li><a class="justify-content-between d-flex" href="./views/category.php"><p>Arizona</p><span>36</span></a></li>
+									<li><a class="justify-content-between d-flex" href="./views/category.php"><p>Florida</p><span>47</span></a></li>
+									<li><a class="justify-content-between d-flex" href="./views/category.php"><p>Rocky Beach</p><span>27</span></a></li>
+									<li><a class="justify-content-between d-flex" href="./views/category.php"><p>Chicago</p><span>17</span></a></li>
 								</ul>
 							</div>
 
@@ -588,7 +589,7 @@
 								<div class="active-relatedjob-carusel">
 									<div class="single-rated">
 										<img class="img-fluid" src="./img/r1.jpg" alt="">
-										<a href="single.php"><h4>Creative Art Designer</h4></a>
+										<a href="./views/single.php"><h4>Creative Art Designer</h4></a>
 										<h6>Premium Labels Limited</h6>
 										<p>
 											Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temporinc ididunt ut dolore magna aliqua.
@@ -600,7 +601,7 @@
 									</div>
 									<div class="single-rated">
 										<img class="img-fluid" src="./img/r1.jpg" alt="">
-										<a href="single.php"><h4>Creative Art Designer</h4></a>
+										<a href="./views/single.php"><h4>Creative Art Designer</h4></a>
 										<h6>Premium Labels Limited</h6>
 										<p>
 											Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temporinc ididunt ut dolore magna aliqua.
@@ -612,7 +613,7 @@
 									</div>
 									<div class="single-rated">
 										<img class="img-fluid" src="./img/r1.jpg" alt="">
-										<a href="single.php"><h4>Creative Art Designer</h4></a>
+										<a href="./views/single.php"><h4>Creative Art Designer</h4></a>
 										<h6>Premium Labels Limited</h6>
 										<p>
 											Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temporinc ididunt ut dolore magna aliqua.
@@ -628,13 +629,13 @@
 							<div class="single-slidebar">
 								<h4>Jobs by Category</h4>
 								<ul class="cat-list">
-									<li><a class="justify-content-between d-flex" href="category.php"><p>Technology</p><span>37</span></a></li>
-									<li><a class="justify-content-between d-flex" href="category.php"><p>Media & News</p><span>57</span></a></li>
-									<li><a class="justify-content-between d-flex" href="category.php"><p>Goverment</p><span>33</span></a></li>
-									<li><a class="justify-content-between d-flex" href="category.php"><p>Medical</p><span>36</span></a></li>
-									<li><a class="justify-content-between d-flex" href="category.php"><p>Restaurants</p><span>47</span></a></li>
-									<li><a class="justify-content-between d-flex" href="category.php"><p>Developer</p><span>27</span></a></li>
-									<li><a class="justify-content-between d-flex" href="category.php"><p>Accounting</p><span>17</span></a></li>
+									<li><a class="justify-content-between d-flex" href="./views/category.php"><p>Technology</p><span>37</span></a></li>
+									<li><a class="justify-content-between d-flex" href="./views/category.php"><p>Media & News</p><span>57</span></a></li>
+									<li><a class="justify-content-between d-flex" href="./views/category.php"><p>Goverment</p><span>33</span></a></li>
+									<li><a class="justify-content-between d-flex" href="./views/category.php"><p>Medical</p><span>36</span></a></li>
+									<li><a class="justify-content-between d-flex" href="./views/category.php"><p>Restaurants</p><span>47</span></a></li>
+									<li><a class="justify-content-between d-flex" href="./views/category.php"><p>Developer</p><span>27</span></a></li>
+									<li><a class="justify-content-between d-flex" href="./views/category.php"><p>Accounting</p><span>17</span></a></li>
 								</ul>
 							</div>
 
@@ -642,7 +643,7 @@
 								<h4>Carrer Advice Blog</h4>
 								<div class="blog-list">
 									<div class="single-blog " style="background:#000 url(./img/blog1.jpg);">
-										<a href="single.php"><h4>Home Audio Recording <br>
+										<a href="./views/single.php"><h4>Home Audio Recording <br>
 										For Everyone</h4></a>
 										<div class="meta justify-content-between d-flex">
 											<p>
@@ -657,7 +658,7 @@
 										</div>
 									</div>
 									<div class="single-blog " style="background:#000 url(./img/blog2.jpg);">
-										<a href="single.php"><h4>Home Audio Recording <br>
+										<a href="./views/single.php"><h4>Home Audio Recording <br>
 										For Everyone</h4></a>
 										<div class="meta justify-content-between d-flex">
 											<p>
@@ -672,7 +673,7 @@
 										</div>
 									</div>
 									<div class="single-blog " style="background:#000 url(./img/blog1.jpg);">
-										<a href="single.php"><h4>Home Audio Recording <br>
+										<a href="./views/single.php"><h4>Home Audio Recording <br>
 										For Everyone</h4></a>
 										<div class="meta justify-content-between d-flex">
 											<p>
@@ -831,14 +832,14 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
 			<script src="./js/vendor/jquery-2.2.4.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-			<script src="./js/vendor/bootstrap.min.js"></script>			
+			<script src="./js/vendor/bootstrap.min.js"></script>
 			<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
-  			<script src="./js/easing.min.js"></script>			
+  			<script src="./js/easing.min.js"></script>
 			<script src="./js/hoverIntent.js"></script>
-			<script src="./js/superfish.min.js"></script>	
+			<script src="./js/superfish.min.js"></script>
 			<script src="./js/jquery.ajaxchimp.min.js"></script>
-			<script src="./js/jquery.magnific-popup.min.js"></script>	
-			<script src="./js/owl.carousel.min.js"></script>			
+			<script src="./js/jquery.magnific-popup.min.js"></script>
+			<script src="./js/owl.carousel.min.js"></script>
 			<script src="./js/jquery.sticky.js"></script>
 			<script src="./js/jquery.nice-select.min.js"></script>			
 			<script src="./js/parallax.min.js"></script>		
